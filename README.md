@@ -8,7 +8,7 @@ A outlook designed app for a personal website: [MacOS](https://github.com/elmers
 
 ### :male_detective: Project:
 
-- [ ] Decide tech-stack
+- [ ]
 
 ### :technologist: Frontend:
 
