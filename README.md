@@ -1,6 +1,7 @@
 # 🖊✉️📬 MailClient
 
 ## Description
+
 A outlook designed app for a personal website: [MacOS](https://github.com/elmersson/MacOS).
 
 ## Todo
@@ -31,6 +32,8 @@ npm run dev
 yarn dev
 # or
 pnpm dev
+# or
+bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -53,5 +56,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-<!--- Eraser file: https://app.eraser.io/workspace/CB00jYU2j9Apx2r5tod2 --->
